@@ -7,6 +7,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+
+You can see a live demo of the website here:-  https://responsive-restaurant-pragya.netlify.app/.
+
 - # Responsive Restaurant Website
 
 ![Screenshot 2024-03-28 162813](https://github.com/Pragyac9/Responsive-restaurant-react-vite/assets/136442660/07f38c40-01c9-401e-b76c-8be7552d8db6)
@@ -18,7 +21,7 @@ This repository contains a responsive restaurant website built using HTML, CSS, 
 
 ## Demo
 
-You can see a live demo of the website [here](https://your-demo-url.com).
+You can see a live demo of the website here:-  https://responsive-restaurant-pragya.netlify.app/.
 
 ## Features
 
